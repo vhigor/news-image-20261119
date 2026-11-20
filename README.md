@@ -41,4 +41,35 @@ Reuters, AP, AFP, NYT, WSJ, BBC, Bloomberg, CNBC, Yonhap, Euronews, ABC,
 Politico, Axios, The Hill, IAEA, IMF, NASA, WHO, UN, ICJ, IMD — all stories
 dated 19 November 2026, researched 20 November 2026.
 
+## Verification
+
+Every headline on the page was checked against the day's reporting on
+20 November 2026 before it went in:
+
+- The lead stories were checked against Reuters, AP and primary reporting:
+  the Shenzhen trilateral (first-ever three-way summit, four-point joint
+  declaration), the ICJ genocide ruling (9–6, ~10,000 killed), the third
+  Kerch Bridge strike in four days (Neptune missiles, rail halted), the
+  Houthi strike on Riyadh's PIF Tower (80 storeys, windows out, no
+  injuries), and the Anthropic IPO ($81.3bn at $83; open $111.50, close
+  $97.17).
+- A $2tn Anthropic valuation claim was dropped: the prospectus shows
+  $1.47tn at the $111.50 open, not $2tn.
+- Items first reported on 17–18 November were dropped as stale for
+  19 November: the Alaska Senate call, the measles elimination ruling,
+  the Waymo freeway halt, and the Qeshm / Kuwait / Bahrain strikes (all
+  covered in the 18 November edition of this paper).
+- The Alcaraz–Medvedev match was played 18 November; the 19 November
+  news is the hamstring MRI, and the item says so.
+- The "Iran exploring chemical weapons" claim was dropped: no public
+  evidence supports it.
+
+## Stories dropped (from the 65 in the research brief)
+
+- Qeshm / Kuwait / Bahrain strikes — 17–18 November, not the 19th.
+- Alaska Senate call, measles status, Waymo halt — 17–18 November.
+- "Iran exploring chemical weapons" — disputed, unverified.
+- Pew projection, Alzheimer's studies, solar flare, cheese award —
+  not the day's news.
+
 Referral code: `p26b6feq`
